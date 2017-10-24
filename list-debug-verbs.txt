@@ -1,0 +1,6 @@
+show
+display
+set
+view
+see
+list

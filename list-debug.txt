@@ -1,0 +1,8 @@
+debug
+verbose
+errors
+verbosity
+level
+log
+logs
+error
