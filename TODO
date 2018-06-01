@@ -1,0 +1,3 @@
+TODO
+-----
+fix the detection of broken requests (when the URL is too long and we get like 400)
